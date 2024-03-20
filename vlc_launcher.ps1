@@ -2,7 +2,7 @@
 ### Place the script (or executable) in an empty folder for first time install, or in an already existing vlc nighlty directory and execute it.
 ### The script or executable name must match the following $LauncherName variable
 
-$LauncherName = vlc_launcher.exe
+$LauncherName = "vlc_launcher.exe"
 
 
 #Check version
